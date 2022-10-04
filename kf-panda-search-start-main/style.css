@@ -1,0 +1,57 @@
+html {
+  background-size: 300px 200px;
+background-image:url('img/200w.gif'); background-repeat:repeat;
+}
+
+
+
+
+body {
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 600px;
+  padding-top: 30px;
+  margin: 25px auto;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  margin: 75px 0;
+}
+
+button {
+  font-variant: small-caps;
+  padding: 8px 20px;
+  background-color: rgba(153, 112, 59, 0.548);
+  color: rgb(5, 3, 3);
+  border-radius: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgba(92, 60, 18, 0.637);
+}
+
+input {
+  font-size: 18px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+div {
+  background-color: rgba(105, 66, 15, 0.466);
+  color: white;
+  padding: 10px 0 30px;
+  border-radius: 0 0 10px 10px;
+}
+
+h1,
+h2 {
+  font-family: Papyrus, fantasy;
+}
+
+img { 
+  width: 500px;
+}
+
